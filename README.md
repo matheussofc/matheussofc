@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus 🤙🏽
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/eumatheussantos/)]("https://www.linkedin.com/in/eumatheussantos/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/eumatheussantos/)](mailto:"https://www.linkedin.com/in/eumatheussantos/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=matheusscode@gmail.com)](mailto:matheusscode@gmail.com)
 
 ### Sejam todos bem vindos ao meu perfil! 😊
