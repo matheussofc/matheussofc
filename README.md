@@ -7,7 +7,6 @@
 
 - 📚 Estudando Análise de dados
 - 👩‍💻 Atuo como Analista de Suporte
-- 🎯 Estou focado em aprender Python
 
   
 ### Ferramentas:
