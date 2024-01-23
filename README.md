@@ -1,13 +1,16 @@
-## Olá, eu sou o Matheus 🤙🏽
+### Olá, eu sou o Matheus 🤙🏽
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/eumatheussantos/)]("https://www.linkedin.com/in/eumatheussantos/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=matheusscode@gmail.com)](matheusscode@gmail.com)
 
+### Sejam todos bem vindos ao meu perfil! 😊
 
 - 📚 Estudando Análise de dados
 - 👩‍💻 Atuo como Analista de Suporte
 - 🎯 Estou focado em aprender Python
 
   
-## Ferramentas:
+### Ferramentas:
 - **Linguagens de programação**: Python
 - **Softwares de visualização de dados**: Power BI, Looker Studio, Qlik View
 - **Banco de dados**: MySQL, Oracle, Postgresql
@@ -25,6 +28,8 @@
 <br>
 <br>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://github.com/matheussofc/matheussofc/blob/main/curriculo.pdf'>Matheus Santos</a></div>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/eumatheussantos/)]("https://www.linkedin.com/in/eumatheussantos/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=matheusscode@gmail.com)](matheusscode@gmail.com)
+
+
+
