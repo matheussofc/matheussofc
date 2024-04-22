@@ -5,15 +5,14 @@
 
 ### Sejam todos bem vindos ao meu perfil! 😊
 
-- 📚 Estudando Análise de dados
-- 👩‍💻 Atuo como Analista de Suporte
+- 📚 Estudando Dev Back-end
 
   
 ### Ferramentas:
-- **Linguagens de programação**: Python
-- **Softwares de visualização de dados**: Power BI, Looker Studio, Qlik View
-- **Banco de dados**: MySQL, Oracle, Postgresql
-- **Computação em nuvem**: AWS (básico)
+- **Linguagens de programação**: 
+- **Softwares de visualização de dados**: 
+- **Banco de dados**: 
+- **Computação em nuvem**: 
 
 <br>
 <br>
